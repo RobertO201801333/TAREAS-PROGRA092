@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>tarea2</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\rober\OneDrive\Desktop\TAREA 092 GIT UB\PROYECTO IMC.vb" Link="PROYECTO IMC.vb" />
+  </ItemGroup>
+
+</Project>

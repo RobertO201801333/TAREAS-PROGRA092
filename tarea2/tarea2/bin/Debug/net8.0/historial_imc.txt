@@ -1,0 +1,2 @@
+Roberto,125,25,0.2000,Bajo de peso
+ROBERTO,125,25,0.2000,Bajo de peso
